@@ -33,11 +33,11 @@
           O que vem por aí??
         </h2>
         <v-rating
-          empty-icon="mdiStarOutline"
-          full-icon="mdiStar"
-          half-icon="mdiStarHalfFull"
+          empty-icon="mdi-star-outline"
+          full-icon="mdi-star"
+          half-icon="mdi-star-half-full"
           hover
-          length="5"
+          length="10"
           size="38"
           value="3"
         ></v-rating>
